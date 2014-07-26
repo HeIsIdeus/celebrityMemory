@@ -11,7 +11,7 @@ behavior possible (shuffle, etc.)
 Testing
 ================================
 For testing the games, the best way is to do it on a localhost on your
-computer. Otherway, some of the games won't properly work (cross domain
+computer. Otherwise, some of the games won't properly work (cross domain
 permissions, etc).
 
 Purpose

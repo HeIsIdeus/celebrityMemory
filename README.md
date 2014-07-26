@@ -1,6 +1,6 @@
 Information
 =================================
-An example of a simple Memory Game (match pairs) developed in
+An example of a simple Memory Game (match pairs) developed in CSS3,
 HTML5, normalize.js, jQuery (javascript) and loDash (javascript)
 
 The game is not 100% finished. It's a first version and there's room for a ton of improvements,

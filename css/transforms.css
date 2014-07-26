@@ -1,0 +1,8 @@
+#wrap div{
+  overflow: hidden;
+  position: absolute;
+}
+
+#sideA div{
+  z-index: 100;
+}

@@ -3,7 +3,7 @@ A JavaScript website I built from scratch to use for showcasing all of my web pr
 ===========================
 
 There is no backend included in the build thus far. It is simply a fully-responsive
-"mobile first" front-end multi-page website using the lastest web-based 
+"mobile first" front-end website using the lastest web-based 
 technologies.
 
 ===========================

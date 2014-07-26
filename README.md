@@ -1,3 +1,14 @@
-JavaScript example app that implements the famous memory game of finding
-matching pairs of celebrities. Popular around the globe with those addicted to pop
-culture!
+A JavaScript website I built from scratch to use for showcasing all of my web projects. 
+
+===========================
+
+There is no backend included in the build thus far. It is simply a fully-responsive
+"mobile first" front-end multi-page website using the lastest web-based 
+technologies.
+
+===========================
+
+This website includes the following software dependencies
+- HTML5, CSS3, JavaScript
+- Normalize.js and Responsive.js JavaScript libraries
+- Google API's for font style

@@ -1,7 +1,7 @@
 Information
 =================================
 An example of a simple Memory Game (match pairs) developed in CSS3,
-HTML5, normalize.js, jQuery (javascript) and loDash (javascript)
+HTML5, normalize.js, jQuery (javascript) and LoDash v2.4.1(javascript)
 
 The game is not 100% finished. It's a first version and there's room for a ton of improvements,
 optimizations, etc. The most complete version is the one developed with

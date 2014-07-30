@@ -57,10 +57,5 @@ The used icon set and background image are most likely copyright, but
 all were found using Google Images.
 You can freely redistribute it and use it for your personal purpose. If
 you want to use these icons for a commercial purpose, you will need the
-permission of the photography author(s).
-<<<<<<< HEAD
-Please contact him or her before you upset someone.
-=======
-Please contact him before you end up pissing someone off.
->>>>>>> 12d631276304713ca5815d9f9f474ec80876696b
->>>>>>> 446b945ffa4ed784a60cdc2642d8816658349f08
+permission of the photography author(s). Please contact him or her before you upset someone.
+

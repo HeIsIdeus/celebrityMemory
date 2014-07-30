@@ -1,5 +1,3 @@
-A JavaScript website I built from scratch to use for showcasing all of my web projects. 
-
 ===========================
 
 There is no backend included in the build thus far. It is simply a fully-responsive

@@ -44,4 +44,4 @@ all were found using Google Images.
 You can freely redistribute it and use it for your personal purpose. If
 you want to use these icons for a commercial purpose, you will need the
 permission of the photography author(s).
-Please contact him before you end up pissing someone off.
+Please contact him or her before you upset someone.

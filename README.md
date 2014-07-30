@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 A JavaScript website I built from scratch to use for showcasing all of my web projects. 
 
 ===========================

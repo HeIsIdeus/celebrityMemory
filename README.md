@@ -1,14 +1,16 @@
 ===========================
 
 There is no backend included in the build thus far. It is simply a fully-responsive
-"mobile first" front-end website using the lastest web-based 
+"mobile first" front-end website using some of the lastest web-based
 technologies.
 
 ===========================
 
 This website includes the following software dependencies
-- HTML5, CSS3, JavaScript
-- Normalize.js and Responsive.js JavaScript libraries
+- HTML5, CSS3, JavaScript, jQuery
+- _LoDash v2.4.1
+- Normalize.css and Responsive.css 
+- backstretch and anystretch jQuery plugins
 - Google API's for font style
 
 =======
@@ -50,6 +52,17 @@ handling, animation, and Ajax much simpler with an easy-to-use API that
 works across a multitude of browsers. With a combination of versatility
 and extensibility, jQuery has changed the way that millions of people
 write JavaScript.
+
+BACKSTRETCH.js (http://srobbin.com/jquery-plugins/backstretch/) -> a simple 
+jQuery plugin that allows you to add a dynamically-resized, 
+slideshow-capable background image to any page or element. Images are fetched 
+after your page is loaded, so your users won't have to wait for the (often large) 
+image to download before using your site.
+
+ANYSTRETCH.js (https://github.com/danmillar/jquery-anystretch) ->Anystretch is a 
+jQuery plugin that allows you to add a dynamically-resized background image to any 
+page or block level element. The image will stretch to fit the page/element, and will
+automatically resize as the window size changes.
 
 Images used in the game
 =============================

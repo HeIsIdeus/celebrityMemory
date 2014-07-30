@@ -10,6 +10,7 @@ This website includes the following software dependencies
 - HTML5, CSS3, JavaScript
 - Normalize.js and Responsive.js JavaScript libraries
 - Google API's for font style
+
 =======
 Information
 =================================

@@ -1,7 +1,23 @@
+<<<<<<< HEAD
+A JavaScript website I built from scratch to use for showcasing all of my web projects. 
+
+===========================
+
+There is no backend included in the build thus far. It is simply a fully-responsive
+"mobile first" front-end website using the lastest web-based 
+technologies.
+
+===========================
+
+This website includes the following software dependencies
+- HTML5, CSS3, JavaScript
+- Normalize.js and Responsive.js JavaScript libraries
+- Google API's for font style
+=======
 Information
 =================================
-An example of a simple Memory Game (match pairs) developed in
-HTML5, normalize.js, jQuery (javascript) and loDash (javascript)
+An example of a simple Memory Game (match pairs) developed in CSS3,
+HTML5, normalize.js, jQuery (javascript) and _LoDash v2.4.1(javascript)
 
 The game is not 100% finished. It's a first version and there's room for a ton of improvements,
 optimizations, etc. The most complete version is the one developed with
@@ -11,7 +27,7 @@ behavior possible (shuffle, etc.)
 Testing
 ================================
 For testing the games, the best way is to do it on a localhost on your
-computer. Otherway, some of the games won't properly work (cross domain
+computer. Otherwise, some of the games won't properly work (cross domain
 permissions, etc).
 
 Purpose
@@ -44,4 +60,9 @@ all were found using Google Images.
 You can freely redistribute it and use it for your personal purpose. If
 you want to use these icons for a commercial purpose, you will need the
 permission of the photography author(s).
+<<<<<<< HEAD
 Please contact him or her before you upset someone.
+=======
+Please contact him before you end up pissing someone off.
+>>>>>>> 12d631276304713ca5815d9f9f474ec80876696b
+>>>>>>> 446b945ffa4ed784a60cdc2642d8816658349f08
